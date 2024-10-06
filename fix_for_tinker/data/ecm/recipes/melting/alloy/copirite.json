@@ -1,0 +1,27 @@
+{
+  "type": "tconstruct:alloy",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ingots/steel",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "forge:molten_copper",
+      "amount": 100
+    },
+    {
+      "tag": "forge:molten_steel",
+      "amount": 100
+    }
+  ],
+  "result": {
+    "fluid": "ecm:molten_copirite",
+    "amount": 40
+  },
+  "temperature": 1400
+}
