@@ -1,4 +1,4 @@
 {
     "replace": false,
-    "values": ["fix_for_molten_alloy:load"]
+    "values": ["ecm:load"]
 }
