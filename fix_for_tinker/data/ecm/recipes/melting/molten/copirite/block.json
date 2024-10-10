@@ -1,0 +1,12 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+      "item": "ecm:copirite_block"
+    },
+    "result": {
+      "fluid": "ecm:molten_copirite",
+      "amount": 810
+    },
+    "temperature": 1200,
+    "time": 400
+  }
