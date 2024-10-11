@@ -13,5 +13,9 @@ mc百科：https://www.mcmod.cn/class/3725.html<br>
 匠魂3：https://www.curseforge.com/minecraft/mc-mods/tinkers-construct<br>
 滨蜀的匠魂附加：https://pan.baidu.com/s/1n3YKm3wvX6KT7RwDu76Org?pwd=ecmt<br>
 
-## 记录
+## 日志
+  1.0对“铜钢吞钢”问题进行修复，并且让坚铜能够通过熔融金属制作合金的方法制作。  
 
+  1.0.2对坚铜无法浇注配件的问题进行修复。坚铜装备的制作和使用成为可能。  
+
+  1.1对刀刃无法制作的问题进行修复。回旋镖和陈刚蛋之戟的使用成为可能。
