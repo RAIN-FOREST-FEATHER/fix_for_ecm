@@ -1,0 +1,23 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+      "tag": "minecraft:coals",
+      "count": 1
+    },
+    "result": {
+      "fluid": "ecm:molten_coke",
+      "amount": 40
+    },
+    "temperature": 800,
+    "time": 33,
+    "byproducts": [
+      {
+        "fluid": "ecm:liquid_coal_gas",
+        "amount": 5
+      },
+      {
+        "fluid": "ecm:coal_oil",
+        "amount": 10
+      }
+    ]
+  }
